@@ -1,0 +1,1 @@
+var e=`/assets/nicole-B6kMMzKi.jpg`;export{e as t};
